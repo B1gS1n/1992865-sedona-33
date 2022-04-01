@@ -892,7 +892,7 @@ body {
     margin: 0;
 }
 
-form-field-number-of-people[type='number'] {
+.form-field-number-of-people[type='number'] {
     -moz-appearance:textfield;
 }
 
